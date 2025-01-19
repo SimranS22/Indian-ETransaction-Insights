@@ -9,14 +9,14 @@ The dataset is sourced from **ETAAL (Electronic Transaction Aggregation and Anal
 - **Dataset Source**: [NDAP - ETAAL - State-wise Transaction Per 1000 Population](https://ndap.niti.gov.in/dataset/9131)
 
 ## Project Components  
-- **[Report](https://github.com/SimranS22/Explore-Analyze/blob/main/Indian%20E-Transaction%20Insights%20(2013-2024)/eTransactionInsights.pdf)**: A detailed explanation of the dashboard’s design, insights, and methodologies used to analyze the data.  
+- **[Report](https://github.com/SimranS22/Indian-ETransaction-Insights/blob/main/eTransactionInsights.pdf)**: A detailed explanation of the dashboard’s design, insights, and methodologies used to analyze the data.  
 - **Dashboard Images**: Screenshots of key visualizations and charts from the dashboard.  
-- **[Tableau File](https://github.com/SimranS22/Explore-Analyze/blob/main/Indian%20E-Transaction%20Insights%20(2013-2024)/eTransactionInsights.twb)**: Tableau file containing all the visualizations and analyses.  
+- **[Tableau File](https://github.com/SimranS22/Indian-ETransaction-Insights/blob/main/eTransactionInsights.twb)**: Tableau file containing all the visualizations and analyses.  
 - **Video Demo**: A walkthrough video of the dashboard, showcasing its features and functionality.
-    * [Indian E-Transaction Insights](https://github.com/SimranS22/Explore-Analyze/blob/main/Indian%20E-Transaction%20Insights%20(2013-2024)/IndianeTransactionInsightsDemo.md)
+    * [Indian E-Transaction Insights](https://github.com/SimranS22/Indian-ETransaction-Insights/blob/main/IndianETransactionInsightsDemo.md)
 
 ## Installation  
-1. Clone the repository to your local machine, or download the **[Tableau File](https://github.com/SimranS22/Explore-Analyze/blob/main/Indian%20E-Transaction%20Insights%20(2013-2024)/eTransactionInsights.twb)** and retrieve the dataset from the source provided above.  
+1. Clone the repository to your local machine, or download the **[Tableau File](https://github.com/SimranS22/Indian-ETransaction-Insights/blob/main/eTransactionInsights.twb)** and retrieve the dataset from the source provided above.  
 2. Open the Tableau File in **Tableau Desktop**.  
 3. Review the **Report** for a detailed overview of the dashboards.  
 4. Explore the **Dashboard Images** for visual references.  
